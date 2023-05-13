@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">UTS_BotNav&amp;RecView</string>
+    <string name="char_name">Nama Karakter</string>
+    <string name="char_desc">Deskripsi Karakter</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    //nama char
+    <string name="ceraluronikessentoner">Ceraluronik Essen Toner</string>
+    <string name="ceratinolmoisturizer">Ceratinol Moisturizer</string>
+    <string name="eyecream">Eyecream</string>
+    <string name="facialcleanser">Facial Cleanser</string>
+    <string name="moisturizer">moisturizer</string>
+    <string name="peelinggelclaymask">peelinggel Clay mask</string>
+    <string name="peelingsolution">Peeling Solution</string>
+    <string name="retinolb3serum">Retinol b3 Serum</string>
+    <string name="roseb3brighteningjellymask">Rose b3 Brightening Jelly Mask</string>
+    <string name="serum">Serum</string>
+    //desc char
+    <string name="desc_ceraluronikessentoner">Toner yang diformulasikan dengan Ceramide, Hyaluron dan Heartleaf yang dapat membantu dalam merawat skin barrier, sebagai penyegar kulit dan membantu menenangkan kulit yang teriritasi secara ringan. Membantu menyejukkan kulit dan menjaga hidrasi pada wajah</string>
+    <string name="desc_ceratinolmoisturizer">Moisturizer yang diformulasikan dengan 3 jenis Vitamin A (Encapsulated Retinol, Retinal, dan HPR) untuk menyamarkan garis-garis halus, meratakan warna kulit, dan meningkatkan kekenyalan serta mengencangkan kulit</string>
+    <string name="desc_eyecream">Serum mata yang diformulasikan untuk memperbaiki dan melindungi area mata. Diformulasikan dengan Kafein untuk mengurangi peradangan dan bengkak</string>
+    <string name="desc_facialcleanser">Pembersih wajah yang ringan, dapat membantu membersihkan minyak, bekas makeup, dan sisa debu pada permukaan wajah, dengan kandungan Ceramide dan Niacinamide untuk membantu menjaga skin barrier dan mencerahkan wajah</string>
+    <string name="desc_moisturizer">THE ORIGINOTE Hyalucera Moisturizer Gel adalah pelembap yang diformulasikan khusus untuk menjaga skin barrier</string>
+    <string name="desc_peelinggelclaymask">Membantu Membersihkan dan memberi rasa kencang pada kulit. Membantu menghaluskan kulit</string>
+    <string name="desc_peelingsolution">Membantu memperbaiki jerawat, dan memperbaiki tekstur muka yang tidak rata serta wajah yang lebih cerah</string>
+    <string name="desc_retinolb3serum">Membantu menghaluskan dan menyamarkan tampilan kerutan dan garis halus pada wajah, membantu memperlambat dan membantu mencegah tanda-tanda penuaan dini</string>
+    <string name="desc_roseb3brighteningjellymask">Masker wajah dengan kandungan Rose, Heartleaf dan Niacinamide yang dapat membantu membantu mencerahkan, menenangkan dan menghidrasi kulit</string>
+    <string name="desc_serum">Serum berbahan dasar air untuk memanjangkan dan menebalkan bulu mata dan alis. Dengan kandungan Biotin, Peptides dan Ginseng Extract yang membantu pertumbuhan alis dan bulu mata dalam waktu 2 minggu</string>
+    //profile
+    <string name="intan">Intan Amira lathifa</string>
+    <string name="desc_intan">NIM : 2010031806009 Instagram :IntanAmira_lthf E-Mail : intanamira150802gmail.com</string>
+</resources>
+
